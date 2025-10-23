@@ -22,7 +22,7 @@
             display: flex;
             align-items: center;
             justify-content: center;
-            margin-top: 60px; /* biar tidak ketutupan header fixed */
+            margin-top: 60px; 
         }
 
         .card {
@@ -54,7 +54,7 @@
 </head>
 
 <body>
-    <x-HeaderLogin />
+    <x-headerlogin />
     <main>
         @yield('content')
     </main>
