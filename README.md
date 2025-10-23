@@ -34,4 +34,4 @@ Peternakan Nusantara adalah aplikasi web sederhana yang dibangun menggunakan fra
 - Universitas Jember
 
 
-<p align="center"><a href="https://cdn1-production-images-kly.akamaized.net/oXoKp2KTiaqc1coHEyzPxv91fe0=/640x360/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/1952442/original/021373900_1549967902-sapi.jpg" target="_blank"><img src="https://cdn1-production-images-kly.akamaized.net/oXoKp2KTiaqc1coHEyzPxv91fe0=/640x360/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/1952442/original/021373900_1549967902-sapi.jpg" width="400" alt="ini"></a></p>
+<p align="center"><img src="https://tse2.mm.bing.net/th/id/OIP.mNq9Mm1MAt9mp4rpIu6WzgHaDt?pid=Api&P=0&h=180" width="400" alt="ini"></a></p>
