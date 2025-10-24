@@ -33,5 +33,6 @@ Peternakan Nusantara adalah aplikasi web sederhana yang dibangun menggunakan fra
 - Fakultas: Ilmu Komputer
 - Universitas Jember
 
+Selamat berkunjung
 
 <p align="center"><img src="https://tse2.mm.bing.net/th/id/OIP.mNq9Mm1MAt9mp4rpIu6WzgHaDt?pid=Api&P=0&h=180" width="400" alt="ini"></a></p>
